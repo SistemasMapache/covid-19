@@ -1,3 +1,5 @@
+fork de Soporte de datos al proyecto de mapeo de OpenStreetMap: Argentina/COVID-19 de Gabriel de Luca https://github.com/gabriel-de-luca
+
 # covid-19
 Soporte de datos y visualización para el proyecto de mapeo de OpenStreetMap: [Argentina/COVID-19](https://wiki.openstreetmap.org/wiki/ES:Argentina/COVID-19).
 
